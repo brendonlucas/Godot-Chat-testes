@@ -8,10 +8,3 @@
   <li> Requests </li>
 </ul>
 
-<h3> Instalando Requisitos</h3>
-<pre> <code> $ pip install -r requirements.txt </code> </pre>
-
-<h3> Video demonstração </h3>
-<ul>
- <li> https://youtu.be/bNTOjUcmzfo  </li>
-</ul>
