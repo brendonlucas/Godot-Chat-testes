@@ -1,4 +1,4 @@
-from rest_framework import status, generics, pagination
+from rest_framework import generics
 from mensagem.serializers import *
 from mensagem.models import *
 
